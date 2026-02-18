@@ -15,5 +15,5 @@ class Metadata
     public ?string $preapproval_id;
 
     /** Available tries **/
-    public ?string $available_tries;
+    public ?int $available_tries;
 }
